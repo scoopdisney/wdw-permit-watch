@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WDW Public Permit Feed · scoopdisney</title>
+  <meta name="description" content="Live curated feed of publicly available Walt Disney World construction permits, Notices of Commencement, and related filings.">
+  <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1a2332;
+      --border: #2a3a4f;
+      --text: #e7ecf3;
+      --muted: #8b9bb4;
+      --accent: #4a9eff;
+      --green: #3dd68c;
+      --orange: #ff9f43;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 1.5rem;
+      max-width: 920px;
+      margin: 0 auto;
+    }
+    header {
+      margin-bottom: 1.75rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1.25rem;
+    }
+    h1 {
+      font-size: 1.7rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.3rem;
+    }
+    .subtitle { color: var(--muted); font-size: 0.95rem; }
+    .meta { margin-top: 0.7rem; font-size: 0.85rem; color: var(--muted); }
+    .meta strong { color: var(--green); }
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.1rem 1.25rem;
+      margin-bottom: 1.75rem;
+      font-size: 0.9rem;
+    }
+    .sources h2 { font-size: 0.95rem; margin-bottom: 0.55rem; color: var(--accent); }
+    .sources ul { list-style: none; }
+    .sources li { margin-bottom: 0.35rem; }
+    .sources a { color: var(--accent); text-decoration: none; }
+    .sources a:hover { text-decoration: underline; }
+    .feed-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.15rem 1.25rem;
+      margin-bottom: 0.9rem;
+    }
+    .feed-date {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--orange);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.3rem;
+    }
+    .feed-title { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.35rem; }
+    .feed-desc { font-size: 0.92rem; color: var(--muted); margin-bottom: 0.55rem; }
+    .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.45rem; }
+    .tag {
+      font-size: 0.72rem;
+      background: #243044;
+      color: #a8c0e0;
+      padding: 0.18rem 0.5rem;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+    .tag.sfwmd { background: #1a3a2a; color: #7dcea0; }
+    .tag.noc { background: #3a2a1a; color: #f0c78a; }
+    .source-link { font-size: 0.8rem; color: var(--accent); text-decoration: none; }
+    .source-link:hover { text-decoration: underline; }
+    .note {
+      background: #1a252f;
+      border-left: 3px solid var(--accent);
+      padding: 0.85rem 1rem;
+      margin: 1.4rem 0;
+      font-size: 0.88rem;
+      border-radius: 0 6px 6px 0;
+    }
+    footer {
+      margin-top: 2.2rem;
+      padding-top: 1.1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+    code { background: #243044; padding: 0.1rem 0.35rem; border-radius: 3px; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>WDW Public Permit Feed</h1>
+    <p class="subtitle">Curated running list of publicly reported Walt Disney World permits &amp; Notices of Commencement</p>
+    <p class="meta">Last updated: <strong id="last-updated">August 2, 2026</strong> · Most recent at top · <a href="data/permits.json" style="color:var(--accent)">JSON</a></p>
+  </header>
+
+  <div class="sources">
+    <h2>Official Live Search Sources</h2>
+    <ul>
+      <li><strong>CFTOD Accela</strong> — <a href="https://permitting.oversightdistrict.org" target="_blank" rel="noopener">permitting.oversightdistrict.org</a></li>
+      <li><strong>Orange County Official Records (NOCs)</strong> — <a href="https://www.occompt.com/368/Search-Official-Records" target="_blank" rel="noopener">Search Official Records</a></li>
+      <li><strong>South Florida Water Management District</strong> — <a href="https://www.sfwmd.gov/doing-business-with-us/permits" target="_blank" rel="noopener">SFWMD RegPermitting</a></li>
+      <li><strong>Osceola County</strong> — <a href="https://permits.osceola.org/" target="_blank" rel="noopener">permits.osceola.org</a></li>
+    </ul>
+  </div>
+
+  <div class="note">
+    This feed is maintained in the <a href="https://github.com/scoopdisney/wdw-permit-watch" style="color:var(--accent)">scoopdisney/wdw-permit-watch</a> repository. 
+    Official government portals are the source of truth. New filings are added here as they are identified in public records or reliable reporting.
+  </div>
+
+  <div id="feed">
+    <!-- Populated from data/permits.json -->
+  </div>
+
+  <div class="note">
+    <strong>Automation status:</strong> Structure is in place for scheduled updates (GitHub Actions). 
+    Full automated scraping of Accela / Comptroller systems is intentionally conservative due to lack of public APIs and anti-bot protections. 
+    New entries are currently curated and committed; the workflow regenerates this page from <code>data/permits.json</code>.
+  </div>
+
+  <footer>
+    Maintained by scoopdisney · Data from public Florida records + reporting · Not an official Disney or government document<br>
+    Repo: <a href="https://github.com/scoopdisney/wdw-permit-watch" style="color:var(--accent)">github.com/scoopdisney/wdw-permit-watch</a>
+  </footer>
+
+  <script>
+    // Simple client-side render from the JSON (works even before any generator runs)
+    fetch('data/permits.json')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('last-updated').textContent = new Date(data.last_updated).toLocaleDateString('en-US', {
+          year: 'numeric', month: 'long', day: 'numeric'
+        });
+        const feed = document.getElementById('feed');
+        feed.innerHTML = data.permits.map(p => {
+          const tags = (p.tags || []).map(t => {
+            let cls = 'tag';
+            if (t.toLowerCase().includes('sfwmd')) cls += ' sfwmd';
+            if (t.toLowerCase().includes('noc') || t.toLowerCase().includes('notice')) cls += ' noc';
+            return `<span class="${cls}">${t}</span>`;
+          }).join('');
+          return `
+            <article class="feed-item">
+              <div class="feed-date">${p.approx ? '≈ ' : ''}${p.date}</div>
+              <div class="feed-title">${p.title}</div>
+              <div class="feed-desc">${p.description}</div>
+              <div class="tags">${tags}</div>
+              ${p.source ? `<a class="source-link" href="${p.source}" target="_blank" rel="noopener">Source: ${p.source_name || 'Link'} →</a>` : ''}
+            </article>`;
+        }).join('');
+      })
+      .catch(err => {
+        document.getElementById('feed').innerHTML = '<p style="color:var(--muted)">Unable to load permit data. Check data/permits.json.</p>';
+      });
+  </script>
+</body>
+</html>
