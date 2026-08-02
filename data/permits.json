@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T21:45:00Z",
+  "last_updated": "2026-08-02T21:53:33.187Z",
   "source_note": "Curated from public Orange County Official Records (Notices of Commencement), CFTOD Accela, SFWMD, and contemporaneous reporting. Official portals remain the source of truth.",
   "permits": [
     {
@@ -9,7 +9,11 @@
       "title": "Mysterious new Monstropolis permit (Hollywood Studios)",
       "description": "Walt Disney Imagineering filed a new permit related to the developing Monstropolis land (former Muppets Courtyard area). Details remain limited in public reporting; follows earlier electrical and set work at the Glob Theater.",
       "location": "Disney's Hollywood Studios – Monstropolis",
-      "tags": ["Hollywood Studios", "Monstropolis", "Notice of Commencement"],
+      "tags": [
+        "Hollywood Studios",
+        "Monstropolis",
+        "Notice of Commencement"
+      ],
       "type": "NOC",
       "source": "https://mickeyblog.com/2026/07/28/disney-has-filed-a-mysterious-new-monstropolis-permit/",
       "source_name": "MickeyBlog"
@@ -20,7 +24,10 @@
       "title": "Five new general construction permits at Disney resorts",
       "description": "Disney filed five new permits covering general construction work across multiple resorts. Public reporting indicates possible hotel-related changes or infrastructure updates on the horizon.",
       "location": "Multiple resorts",
-      "tags": ["Resorts / Hotels", "General Construction"],
+      "tags": [
+        "Resorts / Hotels",
+        "General Construction"
+      ],
       "type": "Building",
       "source": "https://allears.net/2026/07/26/disney-filed-5-new-permits-and-this-could-mean-hotel-changes-are-on-the-horizon/",
       "source_name": "AllEars"
@@ -31,7 +38,11 @@
       "title": "Infrastructure & System Enhancements — Indiana Jones / DINOSAUR area",
       "description": "“General Construction and Building Infrastructure and System Enhancements.” Filed for the DINOSAUR attraction address as part of the Tropical Americas retheme work. Contractor: Balfour Beatty. Permit expires in one year. Ride systems not included in this particular filing; expected 2027 opening for the reimagined experience.",
       "location": "Disney's Animal Kingdom – Tropical Americas / DINOSAUR",
-      "tags": ["Animal Kingdom", "Tropical Americas", "Infrastructure"],
+      "tags": [
+        "Animal Kingdom",
+        "Tropical Americas",
+        "Infrastructure"
+      ],
       "type": "NOC / Infrastructure",
       "contractor": "Balfour Beatty",
       "source": "https://wdwnt.com/2026/07/infrastructure-and-system-enhancements-permit-filed-for-indiana-jones-ride-at-disneys-animal-kingdom/",
@@ -43,7 +54,11 @@
       "title": "Typhoon Lagoon Backstage Parking Lot",
       "description": "New roadway leading to a fenced-in backstage gravel parking lot behind Crush ’n’ Gusher. Includes stormwater management with two dry retention ponds and four conveyance swales. Intended primarily for Cast Member parking so the existing lot can better serve guests. Timed ahead of the water park’s annual closure beginning September 9, 2026.",
       "location": "Disney's Typhoon Lagoon – Backstage",
-      "tags": ["Typhoon Lagoon", "SFWMD", "Stormwater / Parking"],
+      "tags": [
+        "Typhoon Lagoon",
+        "SFWMD",
+        "Stormwater / Parking"
+      ],
       "type": "SFWMD Environmental / Stormwater",
       "source": "https://allears.net/2026/07/14/this-new-disney-world-permit-could-solve-a-major-problem/",
       "source_name": "AllEars"
@@ -54,7 +69,11 @@
       "title": "Electrical permit — Glob Theater (Monstropolis)",
       "description": "Notice of Commencement for electrical work at the former Muppet*Vision 3D building (now Glob Theater). Contractor: Elite A/V Systems Inc. Part of the larger transformation into the live theater component of Monstropolis. Earlier related filings included set installation work.",
       "location": "Disney's Hollywood Studios – Glob Theater / Monstropolis",
-      "tags": ["Hollywood Studios", "Monstropolis", "Electrical"],
+      "tags": [
+        "Hollywood Studios",
+        "Monstropolis",
+        "Electrical"
+      ],
       "type": "NOC – Electrical",
       "contractor": "Elite A/V Systems Inc.",
       "source": "https://wdwnt.com/2026/07/electrical-permit-filed-for-glob-theater-in-monstropolis-land/",
