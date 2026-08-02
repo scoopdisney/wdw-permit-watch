@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WDW Public Permit Feed · scoopdisney</title>
-  <meta name="description" content="Live curated feed of publicly available Walt Disney World construction permits, Notices of Commencement, and related filings.">
+  <title>WDW Public Permit Feed</title>
+  <meta name="description" content="Live feed of official Walt Disney World Notices of Commencement and public permit records.">
   <style>
     :root {
       --bg: #0f1419;
@@ -70,7 +70,7 @@
     }
     .feed-title { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.35rem; }
     .feed-desc { font-size: 0.92rem; color: var(--muted); margin-bottom: 0.55rem; }
-    .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.45rem; }
+    .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.55rem; }
     .tag {
       font-size: 0.72rem;
       background: #243044;
@@ -81,8 +81,18 @@
     }
     .tag.sfwmd { background: #1a3a2a; color: #7dcea0; }
     .tag.noc { background: #3a2a1a; color: #f0c78a; }
-    .source-link { font-size: 0.8rem; color: var(--accent); text-decoration: none; }
-    .source-link:hover { text-decoration: underline; }
+    .doc-link {
+      display: inline-block;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--green);
+      text-decoration: none;
+      margin-right: 1rem;
+      margin-bottom: 0.35rem;
+    }
+    .doc-link:hover { text-decoration: underline; }
+    .source-link { font-size: 0.8rem; color: var(--muted); text-decoration: none; }
+    .source-link:hover { text-decoration: underline; color: var(--accent); }
     .note {
       background: #1a252f;
       border-left: 3px solid var(--accent);
@@ -98,14 +108,13 @@
       font-size: 0.82rem;
       color: var(--muted);
     }
-    code { background: #243044; padding: 0.1rem 0.35rem; border-radius: 3px; font-size: 0.85em; }
   </style>
 </head>
 <body>
   <header>
     <h1>WDW Public Permit Feed</h1>
-    <p class="subtitle">Curated running list of publicly reported Walt Disney World permits &amp; Notices of Commencement</p>
-    <p class="meta">Last updated: <strong id="last-updated">August 2, 2026</strong> · Most recent at top · <a href="data/permits.json" style="color:var(--accent)">JSON</a></p>
+    <p class="subtitle">Official Notices of Commencement and public permit records for Walt Disney World</p>
+    <p class="meta">Last updated: <strong id="last-updated">—</strong> · Most recent at top · <a href="data/permits.json" style="color:var(--accent)">JSON</a></p>
   </header>
 
   <div class="sources">
@@ -119,27 +128,17 @@
   </div>
 
   <div class="note">
-    This feed is maintained in the <a href="https://github.com/scoopdisney/wdw-permit-watch" style="color:var(--accent)">scoopdisney/wdw-permit-watch</a> repository. 
-    Official government portals are the source of truth. New filings are added here as they are identified in public records or reliable reporting.
+    Primary links point to official recorded documents (Orange County Notices of Commencement, etc.) whenever available. News articles are shown only as secondary references.
   </div>
 
-  <div id="feed">
-    <!-- Populated from data/permits.json -->
-  </div>
-
-  <div class="note">
-    <strong>Automation status:</strong> Structure is in place for scheduled updates (GitHub Actions). 
-    Full automated scraping of Accela / Comptroller systems is intentionally conservative due to lack of public APIs and anti-bot protections. 
-    New entries are currently curated and committed; the workflow regenerates this page from <code>data/permits.json</code>.
-  </div>
+  <div id="feed"></div>
 
   <footer>
-    Maintained by scoopdisney · Data from public Florida records + reporting · Not an official Disney or government document<br>
-    Repo: <a href="https://github.com/scoopdisney/wdw-permit-watch" style="color:var(--accent)">github.com/scoopdisney/wdw-permit-watch</a>
+    Data from public Florida records · Not an official Disney or government document<br>
+    Source repo: <a href="https://github.com/scoopdisney/wdw-permit-watch" style="color:var(--accent)">github.com/scoopdisney/wdw-permit-watch</a>
   </footer>
 
   <script>
-    // Simple client-side render from the JSON (works even before any generator runs)
     fetch('data/permits.json')
       .then(r => r.json())
       .then(data => {
@@ -154,18 +153,27 @@
             if (t.toLowerCase().includes('noc') || t.toLowerCase().includes('notice')) cls += ' noc';
             return `<span class="${cls}">${t}</span>`;
           }).join('');
+
+          let links = '';
+          if (p.document) {
+            links += `<a class="doc-link" href="${p.document}" target="_blank" rel="noopener">${p.document_label || 'Official Document'} →</a>`;
+          }
+          if (p.source) {
+            links += `<a class="source-link" href="${p.source}" target="_blank" rel="noopener">${p.source_name || 'Article'} →</a>`;
+          }
+
           return `
             <article class="feed-item">
               <div class="feed-date">${p.approx ? '≈ ' : ''}${p.date}</div>
               <div class="feed-title">${p.title}</div>
               <div class="feed-desc">${p.description}</div>
               <div class="tags">${tags}</div>
-              ${p.source ? `<a class="source-link" href="${p.source}" target="_blank" rel="noopener">Source: ${p.source_name || 'Link'} →</a>` : ''}
+              <div>${links}</div>
             </article>`;
         }).join('');
       })
-      .catch(err => {
-        document.getElementById('feed').innerHTML = '<p style="color:var(--muted)">Unable to load permit data. Check data/permits.json.</p>';
+      .catch(() => {
+        document.getElementById('feed').innerHTML = '<p style="color:var(--muted)">Unable to load permit data.</p>';
       });
   </script>
 </body>
