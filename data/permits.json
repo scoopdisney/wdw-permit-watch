@@ -1,1 +1,149 @@
-PLACEHOLDER
+{
+  "last_updated": "2026-08-03T22:02:16.302Z",
+  "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
+  "permits": [
+    {
+      "id": "runaway-railway-steel-2026-08",
+      "date": "2026-08-03",
+      "approx": true,
+      "title": "Mickey & Minnie's Runaway Railway – General Construction (Coastal Steel)",
+      "description": "Notice of Commencement for general construction at Mickey & Minnie's Runaway Railway. Contractor: Coastal Steel Inc. (steel specialist; previously worked on the Chinese Theatre façade of the attraction). Filed by Disney’s Facility Asset Management team, typically associated with maintenance rather than major thematic changes. No closure announced.",
+      "location": "Disney's Hollywood Studios – Mickey & Minnie's Runaway Railway",
+      "tags": [
+        "Hollywood Studios",
+        "Mickey & Minnie’s Runaway Railway",
+        "Notice of Commencement",
+        "Steel"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Coastal Steel Inc.",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4330S22572?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/steel-construction-permit-filed-for-mickey-minnies-runaway-railway-at-disneys-hollywood-studios/",
+      "source_name": "WDWNT (secondary)"
+    },
+    {
+      "id": "indiana-jones-ferran-extension-2026-07",
+      "date": "2026-07-31",
+      "approx": true,
+      "title": "Indiana Jones / Tropical Americas – General Construction extension (Ferran Services)",
+      "description": "Notice of Commencement for general construction at the future Indiana Jones ride (former DINOSAUR) in Tropical Americas. Contractor: Ferran Services & Contracting, Inc. (HVAC, electrical, plumbing specialist). Filed by Disney’s Facility Asset Management. Extension of an earlier permit; new expiration April 30, 2027.",
+      "location": "Disney's Animal Kingdom – Tropical Americas / Indiana Jones",
+      "tags": [
+        "Animal Kingdom",
+        "Tropical Americas",
+        "Indiana Jones",
+        "Notice of Commencement"
+      ],
+      "type": "NOC – General Construction (extension)",
+      "contractor": "Ferran Services & Contracting, Inc.",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4330S20270?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/07/another-tropical-americas-indiana-jones-ride-permit-extended/",
+      "source_name": "WDWNT (secondary)"
+    },
+    {
+      "id": "monstropolis-mystery-2026-07-28",
+      "date": "2026-07-28",
+      "approx": true,
+      "title": "Mysterious new Monstropolis permit (Hollywood Studios)",
+      "description": "Walt Disney Imagineering filed a new permit related to the developing Monstropolis land (former Muppets Courtyard area). Official document link not yet located in public reporting.",
+      "location": "Disney's Hollywood Studios – Monstropolis",
+      "tags": [
+        "Hollywood Studios",
+        "Monstropolis",
+        "Notice of Commencement"
+      ],
+      "type": "NOC",
+      "document": null,
+      "source": "https://mickeyblog.com/2026/07/28/disney-has-filed-a-mysterious-new-monstropolis-permit/",
+      "source_name": "MickeyBlog (secondary)"
+    },
+    {
+      "id": "resorts-5-permits-2026-07-26",
+      "date": "2026-07-26",
+      "title": "Five new general construction permits at Disney resorts",
+      "description": "Disney filed five new permits covering general construction work across multiple resorts. Individual official document links not yet extracted.",
+      "location": "Multiple resorts",
+      "tags": [
+        "Resorts / Hotels",
+        "General Construction"
+      ],
+      "type": "Building",
+      "document": null,
+      "source": "https://allears.net/2026/07/26/disney-filed-5-new-permits-and-this-could-mean-hotel-changes-are-on-the-horizon/",
+      "source_name": "AllEars (secondary)"
+    },
+    {
+      "id": "indiana-jones-infra-2026-07-23",
+      "date": "2026-07-23",
+      "title": "Infrastructure & System Enhancements — Indiana Jones / DINOSAUR area",
+      "description": "“General Construction and Building Infrastructure and System Enhancements.” Filed for the DINOSAUR attraction address as part of the Tropical Americas retheme. Contractor: Balfour Beatty.",
+      "location": "Disney's Animal Kingdom – Tropical Americas / DINOSAUR",
+      "tags": [
+        "Animal Kingdom",
+        "Tropical Americas",
+        "Infrastructure"
+      ],
+      "type": "NOC / Infrastructure",
+      "contractor": "Balfour Beatty",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4330S3667?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/07/infrastructure-and-system-enhancements-permit-filed-for-indiana-jones-ride-at-disneys-animal-kingdom/",
+      "source_name": "WDWNT (secondary)"
+    },
+    {
+      "id": "germany-pavilion-epcot-2026-07",
+      "date": "2026-07-08",
+      "title": "Germany Pavilion – General Construction / Roof Refurbishment (EPCOT)",
+      "description": "Notice of Commencement for general construction at the Germany Pavilion (address associated with 1750 Avenue of the Stars). Contractor: MSG Legacy, Inc. d/b/a RSS Roofing Services & Solutions Florida. Filed by Disney Facility Asset Management. Amended filing valid through January 29, 2027. Consistent with ongoing exterior/roof work around Stein Haus.",
+      "location": "EPCOT – Germany Pavilion",
+      "tags": [
+        "EPCOT",
+        "Germany Pavilion",
+        "Notice of Commencement",
+        "Roofing"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "MSG Legacy, Inc. (RSS Roofing Services & Solutions)",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4316S47018?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/07/1454876/",
+      "source_name": "WDWNT (secondary)"
+    },
+    {
+      "id": "typhoon-lagoon-parking-2026-07-14",
+      "date": "2026-07-14",
+      "title": "Typhoon Lagoon Backstage Parking Lot",
+      "description": "New roadway leading to a fenced-in backstage gravel parking lot behind Crush ’n’ Gusher. Includes stormwater management with two dry retention ponds and four conveyance swales. SFWMD filing.",
+      "location": "Disney's Typhoon Lagoon – Backstage",
+      "tags": [
+        "Typhoon Lagoon",
+        "SFWMD",
+        "Stormwater / Parking"
+      ],
+      "type": "SFWMD Environmental / Stormwater",
+      "document": null,
+      "source": "https://allears.net/2026/07/14/this-new-disney-world-permit-could-solve-a-major-problem/",
+      "source_name": "AllEars (secondary)"
+    },
+    {
+      "id": "glob-theater-electrical-2026-07-09",
+      "date": "2026-07-09",
+      "title": "Electrical permit — Glob Theater (Monstropolis)",
+      "description": "Notice of Commencement for electrical work at the former Muppet*Vision 3D building (now Glob Theater). Contractor: Elite A/V Systems Inc.",
+      "location": "Disney's Hollywood Studios – Glob Theater / Monstropolis",
+      "tags": [
+        "Hollywood Studios",
+        "Monstropolis",
+        "Electrical"
+      ],
+      "type": "NOC – Electrical",
+      "contractor": "Elite A/V Systems Inc.",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4316S46271?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/07/electrical-permit-filed-for-glob-theater-in-monstropolis-land/",
+      "source_name": "WDWNT (secondary)"
+    }
+  ]
+}
