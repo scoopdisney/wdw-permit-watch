@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-08-07T13:13:22.977Z",
+  "last_updated": "2026-08-07T19:05:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "grand-floridian-parking-sfwmd-2026-08",
+      "date": "2026-08-07",
+      "title": "Grand Floridian Parking Expansion – Environmental Resource Permit (SFWMD)",
+      "description": "South Florida Water Management District approved Disney’s Environmental Resource permit for parking lot infrastructure and driveway modifications at Grand Floridian Resort & Spa related to World Drive North Phase 3. Authorizes construction and operation of a stormwater management system serving 3.6 acres (3.4 acres for Villas and Wedding Pavilion parking lots + 0.20 acres connector toward Polynesian Island Tower). Adds spaces and reconfigures lots to link DVC/Wedding Pavilion parking with Island Tower area.",
+      "location": "Disney's Grand Floridian Resort & Spa – Parking / Floridian Way",
+      "tags": [
+        "Grand Floridian",
+        "Resorts / Hotels",
+        "SFWMD",
+        "Stormwater / Parking",
+        "World Drive North"
+      ],
+      "type": "SFWMD Environmental / Stormwater",
+      "document": null,
+      "source": "https://wdwnt.com/2026/08/disney-permit-approved-for-expanded-grand-floridian-resort-parking/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "runaway-railway-steel-2026-08",
       "date": "2026-08-03",
