@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-11T13:14:48.443Z",
+  "last_updated": "2026-08-11T22:00:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "cosmic-rewind-steel-2026-08",
+      "date": "2026-08-11",
+      "approx": true,
+      "title": "Guardians of the Galaxy: Cosmic Rewind – General Construction (Coastal Steel)",
+      "description": "Notice of Commencement for general construction at Guardians of the Galaxy: Cosmic Rewind. Contractor: Coastal Steel (steel specialist with prior themed and roller-coaster work). Filed by Disney’s Facility Asset Management team, typically associated with maintenance rather than major thematic changes. No closure announced.",
+      "location": "EPCOT – Guardians of the Galaxy: Cosmic Rewind",
+      "tags": [
+        "EPCOT",
+        "Guardians of the Galaxy: Cosmic Rewind",
+        "Notice of Commencement",
+        "Steel"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Coastal Steel",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4330S36992?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/steel-construction-permit-filed-for-guardians-of-the-galaxy-cosmic-rewind/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "grand-floridian-parking-sfwmd-2026-08",
       "date": "2026-08-07",
