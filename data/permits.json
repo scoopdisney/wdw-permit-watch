@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-08-12T13:18:41.068Z",
+  "last_updated": "2026-08-12T19:01:46.365Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "signage-polynesian-riviera-wilderness-2026-08",
+      "date": "2026-08-12",
+      "title": "Signage Installation – Polynesian Village, Riviera Resort, Wilderness Lodge (Kentavo)",
+      "description": "Walt Disney Imagineering filed three Notices of Commencement for ‘Install signage’ at Disney’s Polynesian Village Resort, Disney’s Riviera Resort, and Disney’s Wilderness Lodge. Contractor: Kentavo. Polynesian signage may relate to new Floridian Way traffic pattern or recently opened bus stop. Wilderness Lodge work aligns with ongoing exterior refurbishment and security kiosk expansion. Riviera purpose unclear (possible replacement of existing signage).",
+      "location": "Multiple resorts – Polynesian Village Resort, Riviera Resort, Wilderness Lodge",
+      "tags": [
+        "Resorts / Hotels",
+        "Polynesian Village",
+        "Riviera Resort",
+        "Wilderness Lodge",
+        "Notice of Commencement",
+        "Signage",
+        "Imagineering"
+      ],
+      "type": "NOC – Signage",
+      "contractor": "Kentavo",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4330S38689?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement (Polynesian)",
+      "source": "https://wdwnt.com/2026/08/imagineering-files-three-new-signage-permits-for-walt-disney-world-hotels/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "cosmic-rewind-steel-2026-08",
       "date": "2026-08-11",
