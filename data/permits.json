@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-24T12:58:03.677Z",
+  "last_updated": "2026-08-24T22:10:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "nsa-dock-expansion-sfwmd-2026-08-24",
+      "date": "2026-08-24",
+      "title": "North Service Area (NSA) Marina Dock Expansion – SFWMD Environmental Resource Permit",
+      "description": "Walt Disney Parks and Resorts, U.S., Inc. filed an SFWMD application for the NSA Dock Expansion at the North Service Area Marina on Bay Lake (backstage facility for storing and servicing Disney watercraft). Covers 0.89 acres east of Facilities Way. Scope: 20-ft floating dock extension with relocated pile; new floating dock addition with 40-ft fingers; total dock area from ~3,400 to ~4,800 sq ft; nine existing pilings replaced, four relocated, eight new; dredging ~718 cubic yards to 86.5 ft (Disney datum). No water quality or attenuation impacts expected. Compensating storage from existing surplus. Vessel capacity noted for six 66-ft cruisers and six 38-ft launches. No public construction timeline announced.",
+      "location": "Bay Lake – North Service Area Marina (backstage)",
+      "tags": [
+        "Bay Lake",
+        "North Service Area",
+        "Marina",
+        "SFWMD",
+        "Dock Expansion",
+        "Watercraft",
+        "Dredging"
+      ],
+      "type": "SFWMD Environmental",
+      "contractor": null,
+      "document": null,
+      "source": "https://www.wdwmagic.com/transportation/ferry-boats/news/24aug2026-walt-disney-world-files-permit-for-dock-expansion-at-bay-lake-service-marina.htm",
+      "source_name": "WDWMAGIC (secondary)"
+    },
     {
       "id": "carousel-progress-electrical-solotech-2026-08",
       "date": "2026-08-12",
