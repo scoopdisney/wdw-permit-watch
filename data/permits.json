@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-26T19:04:34.062Z",
+  "last_updated": "2026-08-26T22:10:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "rock-n-roller-coaster-bvcc-2026-08-26",
+      "date": "2026-08-26",
+      "title": "Rock 'n' Roller Coaster Starring The Muppets – Labor/Materials/Electrical (Buena Vista Construction)",
+      "description": "Disney’s Sourcing & Procurement department filed a Notice of Commencement for Rock ‘n’ Roller Coaster Starring The Muppets at Disney’s Hollywood Studios. Contractor: Buena Vista Construction Company (Disney’s in-house construction team) to “Provide labor, materials and/or electrical for construction”. Filed August 26, 2026; standard one-year expiration. Ride reopened May 2026 after Aerosmith-to-Muppets retheme. Scope appears maintenance-oriented (similar to recent Magic of Disney Animation filings) rather than further thematic changes.",
+      "location": "Disney’s Hollywood Studios – Rock 'n' Roller Coaster Starring The Muppets",
+      "tags": [
+        "Hollywood Studios",
+        "Rock 'n' Roller Coaster",
+        "Muppets",
+        "Notice of Commencement",
+        "Electrical",
+        "Buena Vista Construction"
+      ],
+      "type": "NOC – Labor / Materials / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S6815?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/construction-permit-filed-for-rock-n-roller-coaster-at-disneys-hollywood-studios/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "starcruiser-general-construction-extension-2026-08-26",
       "date": "2026-08-26",
