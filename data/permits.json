@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-26T13:00:09.721Z",
+  "last_updated": "2026-08-26T19:05:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "starcruiser-general-construction-extension-2026-08-26",
+      "date": "2026-08-26",
+      "title": "Former Star Wars: Galactic Starcruiser – General Construction Extension (Balfour Beatty)",
+      "description": "Disney’s Facility Asset Management team filed a Notice of Commencement for “General Construction” at the former Star Wars: Galactic Starcruiser building (201 S Studio Dr), which is being converted into Walt Disney Imagineering offices. Contractor: Balfour Beatty Construction LLC. The filing is identical to the permit recorded on August 26, 2025 and serves as an extension of the now-expired prior NOC; new expiration is August 25, 2027. Scope is general/maintenance-oriented (Facility Asset Management rather than Imagineering). Theming removal and conversion to office space continue.",
+      "location": "Former Star Wars: Galactic Starcruiser (201 S Studio Dr) – being converted to WDI offices",
+      "tags": [
+        "Star Wars: Galactic Starcruiser",
+        "Imagineering Offices",
+        "Notice of Commencement",
+        "General Construction",
+        "Extension",
+        "Facility Asset Management"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Balfour Beatty Construction LLC",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S5944?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/disney-extends-star-wars-galactic-starcruiser-construction-permit/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "nsa-dock-expansion-sfwmd-2026-08-24",
       "date": "2026-08-24",
