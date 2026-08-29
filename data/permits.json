@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-29T06:28:41.477Z",
+  "last_updated": "2026-08-29T16:10:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "skyliner-hollywood-studios-station-bvcc-2026-08-28",
+      "date": "2026-08-28",
+      "title": "Disney Skyliner Hollywood Studios Station – Labor/Materials/Electrical (Buena Vista Construction)",
+      "description": "Permit filed granting Buena Vista Construction Company the right to “provide labor, material, and/or electrical for construction” at the Disney Skyliner station outside Disney’s Hollywood Studios (785 Studio Dr). Filed the morning of August 28, 2026; standard one-year expiration. Possible anticipation of the scheduled Skyliner refurbishment closure (January 24–30, 2027) or unrelated maintenance work. Disney typically closes the Skyliner in January for maintenance.",
+      "location": "Disney’s Hollywood Studios – Disney Skyliner Station (785 Studio Dr)",
+      "tags": [
+        "Hollywood Studios",
+        "Disney Skyliner",
+        "Notice of Commencement",
+        "Electrical",
+        "Buena Vista Construction",
+        "Transportation"
+      ],
+      "type": "NOC – Labor / Materials / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S11165?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/construction-permit-filed-for-disney-skyliners-hollywood-studios-station/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "haunted-mansion-mlc-theming-2026-08-28",
       "date": "2026-08-28",
