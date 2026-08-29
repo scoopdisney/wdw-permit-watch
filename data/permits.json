@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-08-28T21:58:38.899Z",
+  "last_updated": "2026-08-29T01:10:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "haunted-mansion-mlc-theming-2026-08-28",
+      "date": "2026-08-28",
+      "title": "Haunted Mansion – General Construction (MLC Theming)",
+      "description": "Disney’s Facility Asset Management team filed a Notice of Commencement for “General Construction” at 1600 Magic Kingdom Dr, the address of The Haunted Mansion. Contractor: MLC Theming (specialty firm for scenic painting, aging, facades, and rock work). Similar to a February 2025 filing at the same location. Standard one-year expiration (August 28, 2027). Filed by FAM (typically maintenance-oriented) rather than Imagineering, following the recently completed exterior refurbishment; scope could relate to finishing work or other interior/exterior activity.",
+      "location": "Magic Kingdom – The Haunted Mansion (1600 Magic Kingdom Dr)",
+      "tags": [
+        "Magic Kingdom",
+        "Haunted Mansion",
+        "Notice of Commencement",
+        "General Construction",
+        "Facility Asset Management",
+        "MLC Theming"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "MLC Theming",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12842?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/08/disney-files-another-permit-for-haunted-mansion-at-magic-kingdom/",
+      "source_name": "WDWNT (secondary)"
+    },
     {
       "id": "spaceship-earth-signage-jon-richards-2026-08-27",
       "date": "2026-08-27",
