@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T16:24:36.193Z",
+  "last_updated": "2026-09-02T16:28:25.512Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
     {
@@ -8,7 +8,14 @@
       "title": "Main Street Car Barn – Install Signage (Jon Richards Company)",
       "description": "Walt Disney Imagineering filed a Notice of Commencement to “install signage” at 4720C Caribbean Wy, the Main Street Car Barn (backstage vehicle storage for Main Street, U.S.A.). Contractor: Jon Richards Company FL, Inc. (frequent themed-elements collaborator). Standard one-year expiration. Filed by WDI rather than Facility Asset Management, suggesting visible/thematic signage work in a primarily backstage area that can be partially visible from guest areas.",
       "location": "Magic Kingdom – Main Street Car Barn (4720C Caribbean Wy)",
-      "tags": ["Magic Kingdom", "Main Street USA", "Notice of Commencement", "Signage", "Imagineering", "Jon Richards"],
+      "tags": [
+        "Magic Kingdom",
+        "Main Street USA",
+        "Notice of Commencement",
+        "Signage",
+        "Imagineering",
+        "Jon Richards"
+      ],
       "type": "NOC – Signage",
       "contractor": "Jon Richards Company FL, Inc.",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12061?search=DOCSEARCH2950S3",
@@ -22,7 +29,13 @@
       "title": "Disney’s BoardWalk Inn – General Construction (Abrahan Constructors)",
       "description": "Notice of Commencement filed for “General Construction” at 2100 Epcot Resorts Blvd (BoardWalk Hotel Inn rooms 1201-5311; Villas rooms 1001-5095). Contractor: Abrahan Constructors, LLC. Standard one-year expiration. BoardWalk has multiple active projects including Hurly-Burly (former Jellyrolls), new restaurants/stores, and ongoing renovations; this filing may support one or more of those efforts or general maintenance.",
       "location": "Disney’s BoardWalk – BoardWalk Inn / Villas (2100 Epcot Resorts Blvd)",
-      "tags": ["BoardWalk", "Resort", "Notice of Commencement", "General Construction", "Abrahan Constructors"],
+      "tags": [
+        "BoardWalk",
+        "Resort",
+        "Notice of Commencement",
+        "General Construction",
+        "Abrahan Constructors"
+      ],
       "type": "NOC – General Construction",
       "contractor": "Abrahan Constructors, LLC",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12229?search=DOCSEARCH2950S3",
