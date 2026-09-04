@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-09-03T16:07:39.681Z",
+  "last_updated": "2026-09-03T18:20:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "okapi-bldg-bvcc-labor-2026-08-31",
+      "date": "2026-08-31",
+      "title": "Kilimanjaro Safaris – Okapi Bldg 01 (Buena Vista Construction)",
+      "description": "Notice of Commencement for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 901 W Savannah Cir (Okapi Bldg 01) in the Kilimanjaro Safaris / Africa area of Animal Kingdom. Standard one-year expiration. Primarily backstage support building; work may be visible from the safari route in limited areas. Confirmed via official OC listing and secondary coverage noting the Okapi building permit.",
+      "location": "Disney’s Animal Kingdom – Kilimanjaro Safaris / Africa (901 W Savannah Cir, Okapi Bldg 01)",
+      "tags": [
+        "Animal Kingdom",
+        "Kilimanjaro Safaris",
+        "Africa",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
+      "type": "NOC – Labor / Materials / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S14039/20260484797.pdf?index=1",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://forums.wdwmagic.com/threads/permits-2026.987413/page-6",
+      "source_name": "WDWMAGIC forum (primary NOC listing); secondary AllEars reference"
+    },
+    {
+      "id": "caribbean-plaza-mlc-theming-general-2026-08-31",
+      "date": "2026-08-31",
+      "title": "Caribbean Plaza / Pecos Bill area – General Construction (MLC Theming)",
+      "description": "Notice of Commencement for MLC Theming Inc. for “General Construction” at 4873B Caribbean Wy (Caribbean Plaza). Standard one-year expiration. Address is in the Frontierland / Adventureland interface near Pecos Bill Tall Tale Inn & Cafe. Secondary coverage associated a general-construction filing in this area with Pecos Bill; official listing specifies Caribbean Plaza. Scope unknown—could be maintenance, theming touch-ups, or related site work.",
+      "location": "Magic Kingdom – Caribbean Plaza / near Pecos Bill (4873B Caribbean Wy)",
+      "tags": [
+        "Magic Kingdom",
+        "Frontierland",
+        "Caribbean Plaza",
+        "Pecos Bill",
+        "Notice of Commencement",
+        "General Construction",
+        "MLC Theming"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "MLC Theming Inc.",
+      "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S14737/20260485492.pdf?index=1",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://forums.wdwmagic.com/threads/permits-2026.987413/page-6",
+      "source_name": "WDWMAGIC forum (primary NOC listing); secondary AllEars reference to Pecos Bill area"
+    },
     {
       "id": "haunted-mansion-mlc-theming-general-2026-08-28",
       "date": "2026-08-28",
