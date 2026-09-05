@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T07:05:00.000Z",
+  "last_updated": "2026-09-05T07:05:25.090Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
     {
@@ -8,7 +8,14 @@
       "title": "Animal Kingdom – African Train Station (Buena Vista Construction)",
       "description": "Notice of Commencement for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 850 Werikhe Wy (African Train Station) in Animal Kingdom. Standard one-year expiration. Address corresponds to the Wildlife Express Train / Africa train station area. Scope unknown—could support maintenance, infrastructure, or related site work near the train route.",
       "location": "Disney’s Animal Kingdom – Africa / Wildlife Express Train (850 Werikhe Wy, African Train Station)",
-      "tags": ["Animal Kingdom", "Africa", "Wildlife Express Train", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
+      "tags": [
+        "Animal Kingdom",
+        "Africa",
+        "Wildlife Express Train",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S20855/20260492088.pdf?index=1",
@@ -22,7 +29,14 @@
       "title": "Animal Kingdom Asia – Banteng Bldg (New) AP 53 (Buena Vista Construction)",
       "description": "Notice of Commencement for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 920 Jakata Rd (Asia Banteng Bldg (NEW) AP 53) in Animal Kingdom. Standard one-year expiration. Appears related to animal-care / hoofstock support facilities in the Asia area (banteng are Southeast Asian wild cattle). Primarily backstage; limited guest visibility expected.",
       "location": "Disney’s Animal Kingdom – Asia (920 Jakata Rd, Banteng Bldg / AP 53)",
-      "tags": ["Animal Kingdom", "Asia", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical", "Animal Care"],
+      "tags": [
+        "Animal Kingdom",
+        "Asia",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical",
+        "Animal Care"
+      ],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S20859/20260492072.pdf?index=1",
@@ -36,7 +50,14 @@
       "title": "Animal Kingdom – Lion King Theater (Buena Vista Construction)",
       "description": "Notice of Commencement for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 803 W Savannah Cir (Lion King Theater) in Animal Kingdom. Standard one-year expiration. Address corresponds to Festival of the Lion King theater. Scope unknown—could be maintenance, AV/electrical support, or related facility work.",
       "location": "Disney’s Animal Kingdom – Africa / Festival of the Lion King (803 W Savannah Cir)",
-      "tags": ["Animal Kingdom", "Africa", "Festival of the Lion King", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
+      "tags": [
+        "Animal Kingdom",
+        "Africa",
+        "Festival of the Lion King",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S25584/20260496974.pdf?index=1",
@@ -50,7 +71,14 @@
       "title": "Kilimanjaro Safaris – Okapi Bldg 01 (Buena Vista Construction)",
       "description": "Notice of Commencement for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 901 W Savannah Cir (Okapi Bldg 01) in the Kilimanjaro Safaris / Africa area of Animal Kingdom. Standard one-year expiration. Primarily backstage support building; work may be visible from the safari route in limited areas. Confirmed via official OC listing and secondary coverage noting the Okapi building permit.",
       "location": "Disney’s Animal Kingdom – Kilimanjaro Safaris / Africa (901 W Savannah Cir, Okapi Bldg 01)",
-      "tags": ["Animal Kingdom", "Kilimanjaro Safaris", "Africa", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
+      "tags": [
+        "Animal Kingdom",
+        "Kilimanjaro Safaris",
+        "Africa",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S14039/20260484797.pdf?index=1",
@@ -64,7 +92,15 @@
       "title": "Caribbean Plaza / Pecos Bill area – General Construction (MLC Theming)",
       "description": "Notice of Commencement for MLC Theming Inc. for “General Construction” at 4873B Caribbean Wy (Caribbean Plaza). Standard one-year expiration. Address is in the Frontierland / Adventureland interface near Pecos Bill Tall Tale Inn & Cafe. Secondary coverage associated a general-construction filing in this area with Pecos Bill; official listing specifies Caribbean Plaza. Scope unknown—could be maintenance, theming touch-ups, or related site work.",
       "location": "Magic Kingdom – Caribbean Plaza / near Pecos Bill (4873B Caribbean Wy)",
-      "tags": ["Magic Kingdom", "Frontierland", "Caribbean Plaza", "Pecos Bill", "Notice of Commencement", "General Construction", "MLC Theming"],
+      "tags": [
+        "Magic Kingdom",
+        "Frontierland",
+        "Caribbean Plaza",
+        "Pecos Bill",
+        "Notice of Commencement",
+        "General Construction",
+        "MLC Theming"
+      ],
       "type": "NOC – General Construction",
       "contractor": "MLC Theming Inc.",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S14737/20260485492.pdf?index=1",
@@ -78,7 +114,15 @@
       "title": "Haunted Mansion – General Construction (MLC Theming)",
       "description": "Facility Asset Management filed a Notice of Commencement for “General Construction” at 1600 Magic Kingdom Dr (Haunted Mansion). Contractor: MLC Theming. Standard one-year expiration (through 2026-08-28). Filed by FAM (typically maintenance/finishing work) rather than Imagineering; comes after the recent exterior refurbishment. Scope could cover interior finishing, residual exterior work, or related site work near Piston Peak interface.",
       "location": "Magic Kingdom – Haunted Mansion (1600 Magic Kingdom Dr)",
-      "tags": ["Magic Kingdom", "Haunted Mansion", "Liberty Square", "Notice of Commencement", "General Construction", "MLC Theming", "Facility Asset Management"],
+      "tags": [
+        "Magic Kingdom",
+        "Haunted Mansion",
+        "Liberty Square",
+        "Notice of Commencement",
+        "General Construction",
+        "MLC Theming",
+        "Facility Asset Management"
+      ],
       "type": "NOC – General Construction",
       "contractor": "MLC Theming",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12842?search=DOCSEARCH2950S3",
@@ -92,7 +136,13 @@
       "title": "Disney Skyliner – Hollywood Studios Station (Buena Vista Construction)",
       "description": "Notice of Commencement granting Buena Vista Construction Company authority to “provide labor, material, and/or electrical for construction” at 785 Studio Dr (Disney Skyliner station outside Hollywood Studios). Filed 2026-08-28; standard one-year expiration. May support routine maintenance or work ahead of the announced Skyliner closure January 24-30, 2027.",
       "location": "Disney’s Hollywood Studios – Skyliner Station (785 Studio Dr)",
-      "tags": ["Hollywood Studios", "Skyliner", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
+      "tags": [
+        "Hollywood Studios",
+        "Skyliner",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document-image-pdf/DOC4352S12841/20260484796.pdf?index=1",
@@ -106,7 +156,14 @@
       "title": "Main Street Car Barn – Install Signage (Jon Richards Company)",
       "description": "Walt Disney Imagineering filed a Notice of Commencement to “install signage” at 4720C Caribbean Wy, the Main Street Car Barn (backstage vehicle storage for Main Street, U.S.A.). Contractor: Jon Richards Company FL, Inc. (frequent themed-elements collaborator). Standard one-year expiration. Filed by WDI rather than Facility Asset Management, suggesting visible/thematic signage work in a primarily backstage area that can be partially visible from guest areas.",
       "location": "Magic Kingdom – Main Street Car Barn (4720C Caribbean Wy)",
-      "tags": ["Magic Kingdom", "Main Street USA", "Notice of Commencement", "Signage", "Imagineering", "Jon Richards"],
+      "tags": [
+        "Magic Kingdom",
+        "Main Street USA",
+        "Notice of Commencement",
+        "Signage",
+        "Imagineering",
+        "Jon Richards"
+      ],
       "type": "NOC – Signage",
       "contractor": "Jon Richards Company FL, Inc.",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12061?search=DOCSEARCH2950S3",
@@ -120,7 +177,13 @@
       "title": "Disney’s BoardWalk Inn – General Construction (Abrahan Constructors)",
       "description": "Notice of Commencement filed for “General Construction” at 2100 Epcot Resorts Blvd (BoardWalk Hotel Inn rooms 1201-5311; Villas rooms 1001-5095). Contractor: Abrahan Constructors, LLC. Standard one-year expiration. BoardWalk has multiple active projects including Hurly-Burly (former Jellyrolls), new restaurants/stores, and ongoing renovations; this filing may support one or more of those efforts or general maintenance.",
       "location": "Disney’s BoardWalk – BoardWalk Inn / Villas (2100 Epcot Resorts Blvd)",
-      "tags": ["BoardWalk", "Resort", "Notice of Commencement", "General Construction", "Abrahan Constructors"],
+      "tags": [
+        "BoardWalk",
+        "Resort",
+        "Notice of Commencement",
+        "General Construction",
+        "Abrahan Constructors"
+      ],
       "type": "NOC – General Construction",
       "contractor": "Abrahan Constructors, LLC",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4352S12229?search=DOCSEARCH2950S3",
