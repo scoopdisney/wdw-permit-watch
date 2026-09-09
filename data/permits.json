@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-09-09T16:16:08.353Z",
+  "last_updated": "2026-09-09T19:05:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "tangaroa-terrace-khs-s-general-2026-09-08",
+      "date": "2026-09-08",
+      "title": "Polynesian Village Resort – Tangaroa Terrace (KHS&S / Facility Asset Management)",
+      "description": "Facility Asset Management filed a Notice of Commencement for general conditions / construction at Tangaroa Terrace (standalone building outside the Great Ceremonial House at Disney’s Polynesian Village Resort). Contractor: KHS&S. Unusually long expiration through 2026-12-31 (reported as 12/31/27). Tangaroa Terrace has previously served as a buffet restaurant, Neverland Club kids club, and most recently a Cast Member break area. Scope unknown; the extended timeline and contractor assignment leave open the possibility of more substantial work than routine maintenance, though FAM filings typically focus on infrastructure/upkeep rather than new guest experiences.",
+      "location": "Disney’s Polynesian Village Resort – Tangaroa Terrace (1540 Seven Seas Dr area)",
+      "tags": [
+        "Polynesian",
+        "Resort",
+        "Tangaroa Terrace",
+        "Notice of Commencement",
+        "General Conditions",
+        "KHS&S",
+        "Facility Asset Management"
+      ],
+      "type": "NOC – General Conditions",
+      "contractor": "KHS&S",
+      "document": null,
+      "document_label": null,
+      "source": "https://www.wdwmagic.com/resorts/disneys-polynesian-resort/news/08sep2026-could-tangaroa-terrace-at-disney-s-polynesian-resort-return-to-guest-use-new-permit-filed.htm",
+      "source_name": "WDWMAGIC (secondary reporting; primary OC document not yet linked in coverage)"
+    },
     {
       "id": "african-train-station-bvcc-labor-2026-09-03",
       "date": "2026-09-03",
