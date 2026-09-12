@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-09-11T16:10:37.629Z",
+  "last_updated": "2026-09-12T01:20:44.013Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "dinosaur-indiana-jones-bvcc-labor-2026-09-11",
+      "date": "2026-09-11",
+      "title": "Animal Kingdom – DINOSAUR / Indiana Jones & The Myth of the Jade Serpent (Buena Vista Construction)",
+      "description": "Notice of Commencement filed the afternoon of September 11, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 501 Restaurantosaurus Road (former DINOSAUR attraction, now the site of the upcoming Indiana Jones & The Myth of the Jade Serpent ride in Tropical Americas). Filed by Walt Disney World Resort (not specifically Imagineering), indicating general construction work. Standard scope language; follows earlier construction and theming permit extensions in July. Facade installation of Mayan temple elements is already underway.",
+      "location": "Disney’s Animal Kingdom – DinoLand / Tropical Americas (501 Restaurantosaurus Rd)",
+      "tags": [
+        "Animal Kingdom",
+        "Tropical Americas",
+        "Indiana Jones",
+        "DINOSAUR",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
+      "type": "NOC – Labor / Materials / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4366S1883?search=DOCSEARCH2950S3",
+      "document_label": "Official Notice of Commencement",
+      "source": "https://wdwnt.com/2026/09/new-permit-filed-for-indiana-jones-the-myth-of-the-jade-serpent-construction-at-walt-disney-world/",
+      "source_name": "WDWNT (with official OC document link); corroborated by WDWMAGIC forum NOC listing"
+    },
+    {
+      "id": "tangaroa-terrace-new-horizon-general-2026-09-10",
+      "date": "2026-09-10",
+      "title": "Polynesian Village Resort – Tangaroa Terrace (New Horizon Construction Services)",
+      "description": "Second Notice of Commencement for general conditions / construction at Tangaroa Terrace (1540 Seven Seas Dr). Contractor: New Horizon Construction Services. Unusually long expiration through 2026-12-31 (reported as 12/31/27), matching the earlier KHS&S filing of 2026-09-08. Tangaroa Terrace has previously served as a buffet restaurant, Neverland Club kids club, and most recently a Cast Member break area. Scope remains unspecified beyond general conditions; extended timeline and multiple contractors leave open possibility of more substantial work.",
+      "location": "Disney’s Polynesian Village Resort – Tangaroa Terrace (1540 Seven Seas Dr area)",
+      "tags": [
+        "Polynesian",
+        "Resort",
+        "Tangaroa Terrace",
+        "Notice of Commencement",
+        "General Conditions",
+        "New Horizon Construction Services"
+      ],
+      "type": "NOC – General Conditions",
+      "contractor": "New Horizon Construction Services",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/disney-files-two-permits-for-forgotten-tangaroa-terrace-at-polynesian-resort/",
+      "source_name": "WDWNT; corroborated by WDWMAGIC forum NOC listing for 9/10/26"
+    },
     {
       "id": "tangaroa-terrace-khs-s-general-2026-09-08",
       "date": "2026-09-08",
