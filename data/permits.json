@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T04:10:29.681Z",
+  "last_updated": "2026-09-17T04:10:44.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
     {
@@ -8,14 +8,7 @@
       "title": "Magic Kingdom – Enchanted Tiki Room (Buena Vista Construction)",
       "description": "Notice of Commencement filed September 16, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 4873C Caribbean Way (Walt Disney’s Enchanted Tiki Room, Adventureland). BVCC (in-house) permit rather than WDI; no end date specified so defaults to standard one-year expiration. Indicates general construction/maintenance work rather than show or creative changes. Attraction not currently listed for refurbishment closure. Corroborated by WDWMAGIC reporting and Orange County NOC listings.",
       "location": "Magic Kingdom – Adventureland (4873C Caribbean Way / Enchanted Tiki Room)",
-      "tags": [
-        "Magic Kingdom",
-        "Adventureland",
-        "Enchanted Tiki Room",
-        "Notice of Commencement",
-        "Buena Vista Construction",
-        "Labor / Materials / Electrical"
-      ],
+      "tags": ["Magic Kingdom", "Adventureland", "Enchanted Tiki Room", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": null,
@@ -29,15 +22,7 @@
       "title": "Animal Kingdom – DINOSAUR / Indiana Jones & The Myth of the Jade Serpent (Buena Vista Construction)",
       "description": "Notice of Commencement filed the afternoon of September 11, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 501 Restaurantosaurus Road (former DINOSAUR attraction, now the site of the upcoming Indiana Jones & The Myth of the Jade Serpent ride in Tropical Americas). Filed by Walt Disney World Resort (not specifically Imagineering), indicating general construction work. Standard scope language; follows earlier construction and theming permit extensions in July. Facade installation of Mayan temple elements is already underway.",
       "location": "Disney’s Animal Kingdom – DinoLand / Tropical Americas (501 Restaurantosaurus Rd)",
-      "tags": [
-        "Animal Kingdom",
-        "Tropical Americas",
-        "Indiana Jones",
-        "DINOSAUR",
-        "Notice of Commencement",
-        "Buena Vista Construction",
-        "Labor / Materials / Electrical"
-      ],
+      "tags": ["Animal Kingdom", "Tropical Americas", "Indiana Jones", "DINOSAUR", "Notice of Commencement", "Buena Vista Construction", "Labor / Materials / Electrical"],
       "type": "NOC – Labor / Materials / Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4366S1883?search=DOCSEARCH2950S3",
