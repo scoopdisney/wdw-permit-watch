@@ -1,1 +1,27 @@
-PLACEHOLDER
+{
+  "last_updated": "2026-09-17T04:09:12.174Z",
+  "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
+  "permits": [
+    {
+      "id": "enchanted-tiki-room-bvcc-labor-2026-09-16",
+      "date": "2026-09-16",
+      "title": "Magic Kingdom – Enchanted Tiki Room (Buena Vista Construction)",
+      "description": "Notice of Commencement filed September 16, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 4873C Caribbean Way (Walt Disney’s Enchanted Tiki Room, Adventureland). BVCC (in-house) permit rather than WDI; no end date specified so defaults to standard one-year expiration. Indicates general construction/maintenance work rather than show or creative changes. Attraction not currently listed for refurbishment closure. Corroborated by WDWMAGIC reporting and Orange County NOC listings.",
+      "location": "Magic Kingdom – Adventureland (4873C Caribbean Way / Enchanted Tiki Room)",
+      "tags": [
+        "Magic Kingdom",
+        "Adventureland",
+        "Enchanted Tiki Room",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor / Materials / Electrical"
+      ],
+      "type": "NOC – Labor / Materials / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://www.wdwmagic.com/attractions/the-enchanted-tiki-room/news/16sep2026-new-permit-filed-for-enchanted-tiki-room-at-magic-kingdom.htm",
+      "source_name": "WDWMAGIC; corroborated by WDWMAGIC forum NOC listing for 9/16/26 (4873C Caribbean Wy)"
+    }
+  ]
+}
