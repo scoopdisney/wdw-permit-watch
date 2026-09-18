@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T16:35:56.514Z",
+  "last_updated": "2026-09-18T01:18:31.055Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
     {
@@ -44,6 +44,47 @@
       "document_label": "Official Notice of Commencement",
       "source": "https://wdwnt.com/2026/09/new-permit-filed-for-indiana-jones-the-myth-of-the-jade-serpent-construction-at-walt-disney-world/",
       "source_name": "WDWNT (with official OC document link); corroborated by WDWMAGIC forum NOC listing"
+    },
+    {
+      "id": "tangaroa-terrace-new-horizon-general-2026-09-10",
+      "date": "2026-09-10",
+      "title": "Polynesian Resort – Tangaroa Terrace (New Horizon Construction)",
+      "description": "Notice of Commencement filed September 10, 2026, for “general conditions” at 1540 Seven Seas Dr (Tangaroa Terrace) with contractor New Horizon Construction Services. Expiration December 31, 2027. Companion filing to the September 8 KHS&S NOC for the same location. New Horizon has previously worked on Coronado Springs and Beach Club refurbishments. Tangaroa Terrace currently functions as a Cast Member break area; longer-than-usual expiration may indicate more extensive improvements. Corroborated by WDWNT reporting.",
+      "location": "Disney’s Polynesian Village Resort – Tangaroa Terrace (1540 Seven Seas Dr)",
+      "tags": [
+        "Polynesian Resort",
+        "Tangaroa Terrace",
+        "Notice of Commencement",
+        "New Horizon Construction",
+        "General Conditions"
+      ],
+      "type": "NOC – General Conditions",
+      "contractor": "New Horizon Construction Services",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/disney-files-two-permits-for-forgotten-tangaroa-terrace-at-polynesian-resort/",
+      "source_name": "WDWNT"
+    },
+    {
+      "id": "tangaroa-terrace-khss-general-2026-09-08",
+      "date": "2026-09-08",
+      "title": "Polynesian Resort – Tangaroa Terrace (KHS&S)",
+      "description": "Notice of Commencement filed September 8, 2026, for Facility Asset Management (FAM) with contractor Keenan Hopkins Schmidt & Stowell (KHS&S) for “general conditions” at 1540 Seven Seas Dr (Tangaroa Terrace). Expiration set for December 31, 2027 (longer than standard one-year), suggesting potentially more substantial work than routine maintenance. Tangaroa Terrace is a standalone building outside the Great Ceremonial House; previously a buffet restaurant and Neverland Club, currently used as a Cast Member break area. No confirmation of return to guest use. Corroborated by WDWMAGIC and WDWNT reporting.",
+      "location": "Disney’s Polynesian Village Resort – Tangaroa Terrace (1540 Seven Seas Dr)",
+      "tags": [
+        "Polynesian Resort",
+        "Tangaroa Terrace",
+        "Notice of Commencement",
+        "KHS&S",
+        "Facility Asset Management",
+        "General Conditions"
+      ],
+      "type": "NOC – General Conditions",
+      "contractor": "Keenan Hopkins Schmidt & Stowell (KHS&S)",
+      "document": null,
+      "document_label": null,
+      "source": "https://www.wdwmagic.com/resorts/disneys-polynesian-resort/news/08sep2026-could-tangaroa-terrace-at-disney-s-polynesian-resort-return-to-guest-use-new-permit-filed.htm",
+      "source_name": "WDWMAGIC; corroborated by WDWNT"
     }
   ]
 }
