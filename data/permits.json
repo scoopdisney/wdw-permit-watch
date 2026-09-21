@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-09-21T04:12:54.613Z",
+  "last_updated": "2026-09-21T13:27:16.065Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "glob-theater-sign-producers-signage-2026-09-21",
+      "date": "2026-09-21",
+      "title": "Hollywood Studios – Glob Theater / Monstropolis (Sign Producers / Walt Disney Imagineering)",
+      "description": "Notice of Commencement filed for Sign Producers Inc. to “Install signage” at 365 Cypress Dr. (former MuppetVision 3D theater, now the Glob Theater in the upcoming Monstropolis land at Disney’s Hollywood Studios). Filed by Walt Disney Imagineering; expires one year from filing. Scaffolding was largely removed in August with mounting points visible for a new marquee; concept art shows eye-inspired decorations on the marquee and clock tower plus a banner. The Glob will host Welcome to Monstropolis! With Sulley & Mike. Corroborated by WDWNT and WDWMAGIC reporting.",
+      "location": "Disney’s Hollywood Studios – Glob Theater / Monstropolis (365 Cypress Dr)",
+      "tags": [
+        "Hollywood Studios",
+        "Monstropolis",
+        "Glob Theater",
+        "Notice of Commencement",
+        "Walt Disney Imagineering",
+        "Sign Producers",
+        "Signage"
+      ],
+      "type": "NOC – Install Signage",
+      "contractor": "Sign Producers Inc.",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/walt-disney-imagineering-files-permit-for-glob-theater-signage-in-monstropolis/",
+      "source_name": "WDWNT; corroborated by WDWMAGIC"
+    },
     {
       "id": "polynesian-island-tower-faden-general-2026-09-18",
       "date": "2026-09-18",
@@ -29,43 +51,41 @@
       "date": "2026-09-16",
       "title": "Magic Kingdom – Enchanted Tiki Room (Buena Vista Construction)",
       "description": "Notice of Commencement filed September 16, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 4873C Caribbean Way (Walt Disney’s Enchanted Tiki Room, Adventureland). BVCC (in-house) permit rather than WDI; no end date specified so defaults to standard one-year expiration. Indicates general construction/maintenance work rather than show or creative changes. Attraction not currently listed for refurbishment closure. Corroborated by WDWMAGIC reporting and Orange County NOC listings.",
-      "location": "Magic Kingdom – Adventureland (4873C Caribbean Way / Enchanted Tiki Room)",
+      "location": "Magic Kingdom – Enchanted Tiki Room (4873C Caribbean Way)",
       "tags": [
         "Magic Kingdom",
-        "Adventureland",
         "Enchanted Tiki Room",
         "Notice of Commencement",
         "Buena Vista Construction",
-        "Labor / Materials / Electrical"
+        "General Construction"
       ],
-      "type": "NOC – Labor / Materials / Electrical",
+      "type": "NOC – Labor/Material/Electrical",
       "contractor": "Buena Vista Construction Company",
       "document": null,
       "document_label": null,
       "source": "https://www.wdwmagic.com/attractions/the-enchanted-tiki-room/news/16sep2026-new-permit-filed-for-enchanted-tiki-room-at-magic-kingdom.htm",
-      "source_name": "WDWMAGIC; corroborated by WDWMAGIC forum NOC listing for 9/16/26 (4873C Caribbean Wy)"
+      "source_name": "WDWMAGIC"
     },
     {
       "id": "dinosaur-indiana-jones-bvcc-labor-2026-09-11",
       "date": "2026-09-11",
-      "title": "Animal Kingdom – DINOSAUR / Indiana Jones & The Myth of the Jade Serpent (Buena Vista Construction)",
-      "description": "Notice of Commencement filed the afternoon of September 11, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 501 Restaurantosaurus Road (former DINOSAUR attraction, now the site of the upcoming Indiana Jones & The Myth of the Jade Serpent ride in Tropical Americas). Filed by Walt Disney World Resort (not specifically Imagineering), indicating general construction work. Standard scope language; follows earlier construction and theming permit extensions in July. Facade installation of Mayan temple elements is already underway.",
-      "location": "Disney’s Animal Kingdom – DinoLand / Tropical Americas (501 Restaurantosaurus Rd)",
+      "title": "Animal Kingdom – Former DINOSAUR / Indiana Jones site (Buena Vista Construction)",
+      "description": "Notice of Commencement filed the afternoon of September 11, 2026, for Buena Vista Construction Company to “provide labor, material and/or electrical for construction” at 501 Restaurantosaurus Road (former DINOSAUR attraction, now the site of the upcoming Indiana Jones & The Myth of the Jade Serpent ride in Tropical Americas). Filed by Walt Disney World Resort (not specifically Imagineering), indicating general construction work. Standard scope language; follows earlier construction and theming permit extensions in July. Facade installation of Mayan temple elements is ongoing.",
+      "location": "Disney’s Animal Kingdom – Tropical Americas / former DINOSAUR (501 Restaurantosaurus Road)",
       "tags": [
         "Animal Kingdom",
         "Tropical Americas",
         "Indiana Jones",
         "DINOSAUR",
         "Notice of Commencement",
-        "Buena Vista Construction",
-        "Labor / Materials / Electrical"
+        "Buena Vista Construction"
       ],
-      "type": "NOC – Labor / Materials / Electrical",
+      "type": "NOC – Labor/Material/Electrical",
       "contractor": "Buena Vista Construction Company",
-      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4366S1883?search=DOCSEARCH2950S3",
-      "document_label": "Official Notice of Commencement",
+      "document": null,
+      "document_label": null,
       "source": "https://wdwnt.com/2026/09/new-permit-filed-for-indiana-jones-the-myth-of-the-jade-serpent-construction-at-walt-disney-world/",
-      "source_name": "WDWNT (with official OC document link); corroborated by WDWMAGIC forum NOC listing"
+      "source_name": "WDWNT"
     },
     {
       "id": "tangaroa-terrace-new-horizon-general-2026-09-10",
