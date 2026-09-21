@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-09-21T18:03:49.646Z",
+  "last_updated": "2026-09-21T22:15:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "tomorrowland-terrace-bvcc-general-2026-09-21",
+      "date": "2026-09-21",
+      "title": "Magic Kingdom – Tomorrowland Terrace (Buena Vista Construction / Facilities Asset Management)",
+      "description": "Notice of Commencement filed September 21, 2026, by Facilities Asset Management (FAM) with contractor Buena Vista Construction Company for “General Construction” at 1355 Monorail Way (Tomorrowland Terrace). Expires September 17, 2027. FAM/BVCC filings typically indicate maintenance or general construction rather than major themed or creative work. No specific project announced. Official Orange County document available. Source: WDWNT.",
+      "location": "Magic Kingdom – Tomorrowland Terrace (1355 Monorail Way)",
+      "tags": [
+        "Magic Kingdom",
+        "Tomorrowland",
+        "Tomorrowland Terrace",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Facilities Asset Management",
+        "General Construction"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4366S16792?search=DOCSEARCH2950S3",
+      "document_label": "Orange County Official Records",
+      "source": "https://wdwnt.com/2026/09/disney-files-construction-magic-kingdom-permits-for-tomorrowland-terrace-dvc-lounge/",
+      "source_name": "WDWNT"
+    },
+    {
+      "id": "mckims-mile-house-bvcc-labor-2026-09-21",
+      "date": "2026-09-21",
+      "title": "Magic Kingdom – McKim’s Mile House (Buena Vista Construction / Sourcing & Procurement)",
+      "description": "Notice of Commencement filed September 21, 2026, by Disney’s Sourcing & Procurement team with contractor Buena Vista Construction Company to “Provide labor, materials and/or electrical for construction” at McKim’s Mile House (DVC Member lounge in Frontierland, former Shootin’ Arcade). Expires one year from filing. Sourcing/BVCC filings typically indicate maintenance rather than major themed work. No specific project announced. Official Orange County document available. Source: WDWNT.",
+      "location": "Magic Kingdom – McKim’s Mile House / Frontierland",
+      "tags": [
+        "Magic Kingdom",
+        "Frontierland",
+        "McKim’s Mile House",
+        "DVC",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Sourcing & Procurement",
+        "Labor/Material/Electrical"
+      ],
+      "type": "NOC – Labor/Material/Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": "https://selfservice.or.occompt.com/ssweb/document/DOC4366S16868?search=DOCSEARCH2950S3",
+      "document_label": "Orange County Official Records",
+      "source": "https://wdwnt.com/2026/09/disney-files-construction-magic-kingdom-permits-for-tomorrowland-terrace-dvc-lounge/",
+      "source_name": "WDWNT"
+    },
     {
       "id": "adventureland-mlc-theming-general-2026-09-21",
       "date": "2026-09-21",
