@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-09-22T04:08:55.596Z",
+  "last_updated": "2026-09-22T13:20:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "norway-pavilion-bvcc-labor-2026-09-21",
+      "date": "2026-09-21",
+      "title": "EPCOT – Norway Pavilion (Buena Vista Construction)",
+      "description": "Notice of Commencement recorded September 21, 2026, for Buena Vista Construction Company to “Provide labor, material and/or electrical for construction” at 1600 Avenue of the Stars (main building, Norway Pavilion). Standard one-year term. No specific attraction, restaurant, or shop named. BVCC filings typically indicate maintenance, refurbishment, or infrastructure work rather than major themed or creative projects. No indication of impact to Frozen Ever After or other venues. Official Orange County document referenced by source. Source: WDWNT.",
+      "location": "EPCOT – Norway Pavilion (1600 Avenue of the Stars)",
+      "tags": [
+        "EPCOT",
+        "Norway Pavilion",
+        "World Showcase",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Labor/Material/Electrical"
+      ],
+      "type": "NOC – Labor/Material/Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/disney-files-permit-for-construction-and-electrical-work-in-norway-pavilion-at-epcot/",
+      "source_name": "WDWNT"
+    },
     {
       "id": "tomorrowland-terrace-bvcc-general-2026-09-21",
       "date": "2026-09-21",
