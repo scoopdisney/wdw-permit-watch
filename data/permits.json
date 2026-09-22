@@ -1,7 +1,30 @@
 {
-  "last_updated": "2026-09-22T16:37:37.313Z",
+  "last_updated": "2026-09-22T19:20:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "piston-peak-1610-mk-dr-pcl-general-2026-09-22",
+      "date": "2026-09-22",
+      "title": "Magic Kingdom – Piston Peak / Near Haunted Mansion (PCL Construction / Walt Disney Imagineering)",
+      "description": "Notice of Commencement filed by Walt Disney Imagineering for PCL Construction Services Inc. to perform “General Construction” at 1610 Magic Kingdom Dr, an address not previously listed in the county database (nearest known address is Haunted Mansion at 1600 Magic Kingdom Dr). The new address indicates a ground-up structure rather than work on an existing building. Location aligns with a cleared area of treeline next to Haunted Mansion visible in recent aerials and the Piston Peak scale model shown at D23, which included a building with restroom signage in that spot. Part of ongoing Piston Peak National Park (Cars-themed land) construction. Official Orange County document referenced by source. Source: WDWMAGIC.",
+      "location": "Magic Kingdom – Piston Peak / adjacent to Haunted Mansion (1610 Magic Kingdom Dr)",
+      "tags": [
+        "Magic Kingdom",
+        "Piston Peak",
+        "Haunted Mansion",
+        "Notice of Commencement",
+        "Walt Disney Imagineering",
+        "PCL Construction",
+        "General Construction",
+        "Restroom"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "PCL Construction Services Inc.",
+      "document": null,
+      "document_label": null,
+      "source": "https://www.wdwmagic.com/attractions/cars-land-magic-kingdom/news/22sep2026-new-wdi-permit-filed-for-unlisted-address-near-haunted-mansion-at-magic-kingdom.htm",
+      "source_name": "WDWMAGIC"
+    },
     {
       "id": "norway-pavilion-bvcc-labor-2026-09-21",
       "date": "2026-09-21",
