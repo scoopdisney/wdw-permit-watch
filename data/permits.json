@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-09-23T04:05:45.317Z",
+  "last_updated": "2026-09-23T07:26:29.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "disney-springs-uniqlo-bvcc-general-2026-09-22",
+      "date": "2026-09-22",
+      "title": "Disney Springs – UNIQLO (Buena Vista Construction / Facilities Asset Management)",
+      "description": "Notice of Commencement filed September 22, 2026, by Facilities Asset Management (FAM) with contractor Buena Vista Construction Company for “General Construction” at UNIQLO (Town Center). Expires September 21, 2027. Part of a group of FAM/BVCC general construction filings at Disney Springs restaurants and retail locations the same day. FAM/BVCC typically indicate maintenance or infrastructure work. No specific project announced. Official Orange County document referenced by sources. Source: Inside the Magic; WDWNT.",
+      "location": "Disney Springs – Town Center – UNIQLO",
+      "tags": [
+        "Disney Springs",
+        "UNIQLO",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Facilities Asset Management",
+        "General Construction"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://insidethemagic.net/2026/09/disney-springs-construction-permits-filed-on-tuesday-jc1/",
+      "source_name": "Inside the Magic; corroborated by WDWNT"
+    },
+    {
+      "id": "disney-springs-lego-store-bvcc-general-2026-09-22",
+      "date": "2026-09-22",
+      "title": "Disney Springs – The LEGO Store (Buena Vista Construction / Facilities Asset Management)",
+      "description": "Notice of Commencement filed September 22, 2026, by Facilities Asset Management (FAM) with contractor Buena Vista Construction Company for “General Construction” at The LEGO Store. Expires September 21, 2027. Part of a group of FAM/BVCC general construction filings at Disney Springs the same day. FAM/BVCC typically indicate maintenance or infrastructure work. No specific project announced. Official Orange County document referenced by sources. Source: Inside the Magic; WDWNT.",
+      "location": "Disney Springs – The LEGO Store",
+      "tags": [
+        "Disney Springs",
+        "LEGO Store",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Facilities Asset Management",
+        "General Construction"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://insidethemagic.net/2026/09/disney-springs-construction-permits-filed-on-tuesday-jc1/",
+      "source_name": "Inside the Magic; corroborated by WDWNT"
+    },
+    {
+      "id": "disney-springs-happy-hound-bvcc-general-2026-09-22",
+      "date": "2026-09-22",
+      "title": "Disney Springs – Happy Hound Merchandise Kiosk (Buena Vista Construction / Facilities Asset Management)",
+      "description": "Notice of Commencement filed September 22, 2026, by Facilities Asset Management (FAM) with contractor Buena Vista Construction Company for “General Construction” at the Happy Hound merchandise kiosk. Expires September 21, 2027. Part of a group of FAM/BVCC general construction filings at Disney Springs restaurants and retail the same day. FAM/BVCC typically indicate maintenance or infrastructure work. No specific project announced. Official Orange County document referenced by sources. Source: Inside the Magic; WDWNT.",
+      "location": "Disney Springs – Happy Hound merchandise kiosk",
+      "tags": [
+        "Disney Springs",
+        "Happy Hound",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Facilities Asset Management",
+        "General Construction"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://insidethemagic.net/2026/09/disney-springs-construction-permits-filed-on-tuesday-jc1/",
+      "source_name": "Inside the Magic; corroborated by WDWNT"
+    },
     {
       "id": "disney-springs-bridge-bvcc-general-2026-09-22",
       "date": "2026-09-22",
@@ -108,6 +171,28 @@
       "document_label": null,
       "source": "https://www.wdwmagic.com/attractions/cars-land-magic-kingdom/news/22sep2026-new-wdi-permit-filed-for-unlisted-address-near-haunted-mansion-at-magic-kingdom.htm",
       "source_name": "WDWMAGIC"
+    },
+    {
+      "id": "adventureland-mlc-general-2026-09-21",
+      "date": "2026-09-21",
+      "title": "Magic Kingdom – Adventureland / Popcorn Cart Area (MLC Theming / Facilities Asset Management)",
+      "description": "Notice of Commencement filed September 21, 2026, by Facilities Asset Management with contractor MLC Theming, Inc. for “General Construction” at 4851 Caribbean Way (linked to the Adventureland Popcorn Cart between Jungle Cruise and The Magic Carpets of Aladdin; may reference the broader central Adventureland bazaar area). Unusually long term expiring August 31, 2028. MLC specializes in scenic painting, aging of structures, fabricating facades, and carving rock work. FAM filing typically indicates maintenance or infrastructure rather than major themed overhaul, though the extended expiration and contractor specialty are notable. No official work announced. Official Orange County document referenced by sources. Source: WDWNT; Disney Tourist Blog; Inside the Magic.",
+      "location": "Magic Kingdom – Adventureland (4851 Caribbean Way)",
+      "tags": [
+        "Magic Kingdom",
+        "Adventureland",
+        "Notice of Commencement",
+        "MLC Theming",
+        "Facilities Asset Management",
+        "General Construction",
+        "Rockwork"
+      ],
+      "type": "NOC – General Construction",
+      "contractor": "MLC Theming, Inc.",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/walt-disney-world-files-adventureland-permit-with-two-year-expiration-date-at-magic-kingdom/",
+      "source_name": "WDWNT; corroborated by Disney Tourist Blog and Inside the Magic"
     },
     {
       "id": "norway-pavilion-bvcc-labor-2026-09-21",
