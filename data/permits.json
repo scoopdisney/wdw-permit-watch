@@ -1,7 +1,53 @@
 {
-  "last_updated": "2026-09-26T16:05:43.861Z",
+  "last_updated": "2026-09-26T19:10:00.000Z",
   "source_note": "Primary sources are official Orange County Notices of Commencement and other public records. News articles are secondary references only.",
   "permits": [
+    {
+      "id": "magic-kingdom-pirates-facade-queue-bvcc-2026-09-25",
+      "date": "2026-09-25",
+      "title": "Magic Kingdom – Pirates of the Caribbean (Facade & Queue / 4873B Caribbean Way) – Buena Vista Construction / Sourcing & Procurement",
+      "description": "Notice of Commencement filed by Disney’s Sourcing & Procurement team for “Provide labor, materials and/or electrical for construction” at 4873B Caribbean Way (Pirates of the Caribbean facade and queue). Contractor: Buena Vista Construction Company. No specific project or closure announced; likely routine maintenance or after-hours work. Official Orange County document referenced by sources.",
+      "location": "Magic Kingdom – Adventureland – Pirates of the Caribbean (facade & queue)",
+      "tags": [
+        "Magic Kingdom",
+        "Adventureland",
+        "Pirates of the Caribbean",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Sourcing & Procurement",
+        "Electrical",
+        "General Construction"
+      ],
+      "type": "NOC – Construction / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/walt-disney-world-files-construction-permits-for-pirates-of-the-caribbean/",
+      "source_name": "WDWNT; corroborated by Inside the Magic, Disney Food Blog, AllEars"
+    },
+    {
+      "id": "magic-kingdom-pirates-show-building-bvcc-2026-09-25",
+      "date": "2026-09-25",
+      "title": "Magic Kingdom – Pirates of the Caribbean (Show Building / 4875 Caribbean Way) – Buena Vista Construction / Sourcing & Procurement",
+      "description": "Notice of Commencement filed by Disney’s Sourcing & Procurement team for “Provide labor, materials and/or electrical for construction” at 4875 Caribbean Way (Pirates of the Caribbean show building). Contractor: Buena Vista Construction Company. No specific project or closure announced; likely routine maintenance or after-hours work. Official Orange County document referenced by sources.",
+      "location": "Magic Kingdom – Adventureland – Pirates of the Caribbean (show building)",
+      "tags": [
+        "Magic Kingdom",
+        "Adventureland",
+        "Pirates of the Caribbean",
+        "Notice of Commencement",
+        "Buena Vista Construction",
+        "Sourcing & Procurement",
+        "Electrical",
+        "General Construction"
+      ],
+      "type": "NOC – Construction / Electrical",
+      "contractor": "Buena Vista Construction Company",
+      "document": null,
+      "document_label": null,
+      "source": "https://wdwnt.com/2026/09/walt-disney-world-files-construction-permits-for-pirates-of-the-caribbean/",
+      "source_name": "WDWNT; corroborated by Inside the Magic, Disney Food Blog, AllEars"
+    },
     {
       "id": "disney-springs-footbridge-bvcc-fam-2026-09-22",
       "date": "2026-09-22",
