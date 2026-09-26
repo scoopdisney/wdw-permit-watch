@@ -23,8 +23,9 @@ Disney World permits are public records, but there is no official public RSS/API
 
 - ✅ Live static page + JSON that updates when new data is committed
 - ✅ GitHub Action that regenerates the page from `data/permits.json`
-- ⚠️ Full automated scraping of Accela / Comptroller is **not** enabled by default (no public API, dynamic pages, anti-bot protections). New entries are currently curated and pushed.
-- Future: optional Playwright-based scanner or monitoring of reliable secondary sources can be added in `scripts/`.
+- ✅ `permit-scan.yml` polls SFWMD ArcGIS + CFTOD board documents every three hours into `data/scan/`
+- ⚠️ CFTOD Accela and Orange County NOCs stay manual (login wall / reCAPTCHA). Do not scrape them.
+- ⚠️ `data/permits.json` stays hand-curated. The scanner never edits it.
 
 ## How to add a new permit
 
@@ -58,3 +59,18 @@ npx serve .
 ## License
 
 Public domain / CC0 for the feed data. Use freely for The Disney Scoop or personal tracking.
+
+## Automatic permit scan (permit-scan.yml)
+
+Every three hours GitHub Actions runs `scan.mjs`, which checks public government sources directly and records what it finds in `data/scan/`. It never edits `data/permits.json`, which stays hand-curated.
+
+| File | What it holds |
+|------|---------------|
+| `data/scan/records.csv` | Every Disney record the scanner has seen, latest state |
+| `data/scan/log.csv` | Every change ever detected: NEW, STATUS, DETAIL |
+| `data/scan/health.json` | Whether each source worked on the last run |
+| `data/scan/events.txt` | This run's changes (empty on a quiet run) |
+
+The first run is a baseline and reports nothing. After that, a run that finds a change comments on the `permit-log` issue and mentions @scoopdisney. A quiet run stays quiet. If a source fails, its old rows are kept and the run posts SOURCE DOWN (and SOURCE BACK when it recovers).
+
+Run it by hand: Actions, Permit scan, Run workflow.
