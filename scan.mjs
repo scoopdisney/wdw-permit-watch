@@ -33,11 +33,7 @@ const addDays = (d, n) => new Date(d.getTime() + n * 86400000);
 const clean = (s) => String(s ?? "").replace(/\s+/g, " ").trim();
 const decode = (s) =>
   String(s)
-    .replace(/&/g, "&")
-    .replace(/</g, "<")
-    .replace(/>/g, ">")
-    .replace(/"/g, '"')
-    .replace(/&#39;/g, "'")
+    .replace(/&(amp|lt|gt|quot|#39);/g, (_, e) => ({ amp: "&", lt: "<", gt: ">", quot: '"', "#39": "'" })[e])
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)));
 
 function parseCSV(text) {
