@@ -1,6 +1,6 @@
 {
   "resort": "wdw",
-  "run_at": "2026-09-28T00:51:59Z",
+  "run_at": "2026-09-28T06:58:36Z",
   "lookback_days": 180,
   "sources": {
     "sfwmd-erp": {
@@ -13,7 +13,7 @@
       "ok": true,
       "records": 20,
       "note": "20 board documents in window",
-      "seconds": 1
+      "seconds": 2
     }
   }
 }
