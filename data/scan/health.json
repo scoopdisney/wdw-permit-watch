@@ -1,13 +1,13 @@
 {
   "resort": "wdw",
-  "run_at": "2026-09-27T22:14:53Z",
+  "run_at": "2026-09-28T00:51:59Z",
   "lookback_days": 180,
   "sources": {
     "sfwmd-erp": {
       "ok": true,
       "records": 4,
       "note": "16 applications in the WDW box, 4 kept",
-      "seconds": 1
+      "seconds": 0
     },
     "cftod-docs": {
       "ok": true,
