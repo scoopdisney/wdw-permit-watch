@@ -1,19 +1,18 @@
 {
   "resort": "wdw",
-  "run_at": "2026-09-29T18:39:45Z",
+  "run_at": "2026-09-29T22:59:11Z",
   "lookback_days": 180,
   "sources": {
     "sfwmd-erp": {
-      "ok": true,
-      "records": 4,
-      "note": "16 applications in the WDW box, 4 kept",
-      "seconds": 0
+      "ok": false,
+      "error": "SFWMD: User couldn't access this resource 'regulation_applicationpermits/environmentalresourceapplications_regpermitting.mapserver'.",
+      "seconds": 1
     },
     "cftod-docs": {
       "ok": true,
       "records": 19,
       "note": "19 board documents in window",
-      "seconds": 1
+      "seconds": 2
     }
   }
 }
