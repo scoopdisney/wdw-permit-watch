@@ -1,6 +1,6 @@
 {
   "resort": "wdw",
-  "run_at": "2026-10-13T11:50:58Z",
+  "run_at": "2026-10-13T19:52:52Z",
   "lookback_days": 180,
   "sources": {
     "sfwmd-erp": {
@@ -10,9 +10,8 @@
       "seconds": 0
     },
     "cftod-docs": {
-      "ok": true,
-      "records": 19,
-      "note": "19 board documents in window",
+      "ok": false,
+      "error": "CFTOD media API returned 403, not JSON",
       "seconds": 1
     }
   }
